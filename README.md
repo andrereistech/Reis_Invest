@@ -27,7 +27,7 @@ O projeto utilizou conceitos avançados de modelagem, automação e design de pl
 ![Validação de Perfil com SEERRO](images/selecao_de_perfil.png)
 
 ### 2. Validação de Dados e Controle de Entrada
-* **Listas Suspensas (Data Validation):** Aplicadas nos campos de entrada para seleção padronizada (ex: Perfil de Investidor: *Conservador*, *Moderado*, *Sofisticado*).
+* **Listas Suspensas (Data Validation):** Aplicadas nos campos de entrada para seleção padronizada (ex: Perfil de Investidor: *Conservador*, *Moderado*, *Agressivo*).
 * **Mensagens de Instrução e Alerta de Erro:** Configuradas para orientar o preenchimento correto e obrigar o usuário a definir as premissas antes da liberação dos dados de recomendação.
 
 ### 3. Organização, Nomenclatura e Design
