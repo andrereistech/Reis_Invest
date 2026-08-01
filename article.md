@@ -51,3 +51,14 @@ A ferramenta não se limita a projetar números; ela atua como um guia estrutura
 O sucesso financeiro de longo prazo não depende de encontrar a "ação mágica" do momento, mas sim da constância, do estudo contínuo e da aplicação de métodos testados. Ferramentas como o simulador **Reis Invest** foram pensadas exatamente para servir como esse divisor de águas: um ambiente seguro para testar cenários, simular resultados e planejar o futuro com dados reais e pés no chão.
 
 Invista com responsabilidade, busque conhecimento em fontes qualificadas — como a plataforma *Investidor10* — e faça da disciplina a sua maior aliada na busca pela liberdade financeira.
+----
+
+## 5. Contato e Redes Sociais
+
+Sinta-se à vontade para acompanhar meus projetos, trocar ideias sobre análise de dados e tecnologia ou entrar em contato através das redes abaixo:
+
+* **Desenvolvedor:** André Reis
+
+* **GitHub:** [https://github.com/andrereistech](https://github.com/andrereistech)
+* **LinkedIn:** [https://www.linkedin.com/in/andre-reis-tech/](https://www.linkedin.com/in/andre-reis-tech/)
+* **Instagram:** [https://www.instagram.com/reis_dadosetech/](https://www.instagram.com/reis_dadosetech/)
